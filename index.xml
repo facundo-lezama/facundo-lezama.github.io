@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog</title>
+    <link>https://facundo-lezama.github.io/</link>
+    <description>Recent content on blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Copyright © 2023, Facundo Lezama.</copyright>
+    <lastBuildDate>Tue, 02 Jan 2024 19:23:30 -0300</lastBuildDate><atom:link href="https://facundo-lezama.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://facundo-lezama.github.io/about/</link>
+      <pubDate>Tue, 02 Jan 2024 19:38:57 -0300</pubDate>
+      
+      <guid>https://facundo-lezama.github.io/about/</guid>
+      <description>Me.</description>
+    </item>
+    
+    <item>
+      <title>Hello World!</title>
+      <link>https://facundo-lezama.github.io/hello-world/</link>
+      <pubDate>Tue, 02 Jan 2024 19:23:30 -0300</pubDate>
+      
+      <guid>https://facundo-lezama.github.io/hello-world/</guid>
+      <description>Why does everyone seem to know everyone else in the world? Hello Mom!</description>
+    </item>
+    
+  </channel>
+</rss>
